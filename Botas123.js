@@ -238,9 +238,9 @@
     var basicBot = {
         version: "0.0.1",
         status: false,
-        name: "basicBot-v2",
+        name: "Judesys tik čia",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Bot.js",
+        scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas123.js",
         cmdLink: "https://git.io/vofmh",
         chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "Judesys tik čia",
             language: "Lithuanian",
             chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
-            scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Bot.js",
+            scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas123.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 20, // 0-100
