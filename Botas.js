@@ -249,7 +249,7 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "Judesys tik čia",
-            language: "lithuanian",
+            language: "Lithuanian",
             chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
             scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Bot.js",
             roomLock: false, // Requires an extension to re-load the script
