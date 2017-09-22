@@ -240,7 +240,7 @@
         status: false,
         name: "basicBot-v2",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot-test.js",
+        scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Bot.js",
         cmdLink: "https://git.io/vofmh",
         chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "Judesys tik čia",
             language: "lithuanian",
             chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
-            scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot-test.js",
+            scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Bot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 20, // 0-100
