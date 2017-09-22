@@ -99,7 +99,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("{https://rawgit.com/Rokas55/Stepas/master/Kalbos1.json}", function (json) {
+        $.get("https://rawgit.com/Rokas55/Stepas/master/Kalbos12.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -240,7 +240,7 @@
         status: false,
         name: "Judesys tik čia",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas123.js",
+        scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas1234.js",
         cmdLink: "https://git.io/vofmh",
         chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "Judesys tik čia",
             language: "Lithuanian",
             chatLink: "https://rawgit.com/Rokas55/Stepas/master/komandos.json",
-            scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas123.js",
+            scriptLink: "https://rawgit.com/Rokas55/Stepas/master/Botas1234.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 20, // 0-100
