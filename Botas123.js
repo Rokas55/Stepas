@@ -99,7 +99,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/Rokas55/Stepas/master/Kalbos1.json", function (json) {
+        $.get("{https://rawgit.com/Rokas55/Stepas/master/Kalbos1.json}", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
